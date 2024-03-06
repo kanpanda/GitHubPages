@@ -1,0 +1,17 @@
+
+/* これがcssファイルです */
+/* タイプセレクタ。pタグ全てに適用される */
+p {
+    color : brown;
+  }
+  
+  /* idセレクタ。指定idを持つタグに適用される */
+  #textBox {
+    font-size : 30px;
+  }
+  
+  /* classセレクタ。class名が一致するタグに適用 */
+  .sample-text {
+    background-color : blue;
+    color : #fff;  /* 白 */
+  }
