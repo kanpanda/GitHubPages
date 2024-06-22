@@ -13,3 +13,6 @@ https://note.com/watanabe_kf1983/n/n0624090f4b1e
 
 staticフォルダは独自ドメイン設定がもとに戻るのを防ぐために作成する
 ### 参考:https://takumon.com/2018/09/12/
+
+
+## 更新履歴
