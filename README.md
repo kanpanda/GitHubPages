@@ -1,9 +1,8 @@
 ## これはGitHubPagesを作成するためのリポジトリです。
 ## kanpandaに関する様々な情報を知ることができます。
 
-以下、更新履歴です
-240307:アクセスカウンタの設置
-
+## サイトURL
+kanpanda.net
 
 ## 参考になるwebサイト
 https://note.com/watanabe_kf1983/n/n0624090f4b1e
